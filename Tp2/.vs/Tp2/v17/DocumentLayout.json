@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\Facultad\\TECNICATURA\\3er Semestre\\Lab 3\\Tps\\Lab3\\Tp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6BF2FCDF-F83F-4AA3-979B-2C5C64FAD55A}|E\\E.csproj|d:\\documents\\facultad\\tecnicatura\\3er semestre\\lab 3\\tps\\lab3\\tp2\\e\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BF2FCDF-F83F-4AA3-979B-2C5C64FAD55A}|E\\E.csproj|solutionrelative:e\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D46EDB6-6D34-41C2-ADDF-6B18B3CB7AFF}|D.7\\D.7.csproj|d:\\documents\\facultad\\tecnicatura\\3er semestre\\lab 3\\tps\\lab3\\tp2\\d.7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D46EDB6-6D34-41C2-ADDF-6B18B3CB7AFF}|D.7\\D.7.csproj|solutionrelative:d.7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94555829-B123-4766-9E42-3F048CF35194}|B.2\\B.2.csproj|D:\\Documents\\Facultad\\TECNICATURA\\3er Semestre\\Lab 3\\Tps\\Lab3\\Tp2\\b.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94555829-B123-4766-9E42-3F048CF35194}|B.2\\B.2.csproj|solutionrelative:b.2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043E551D-DDA2-4287-9B68-50F78AAE35AE}|Ejercicio1\\Ejercicio1.csproj|D:\\Documents\\Facultad\\TECNICATURA\\3er Semestre\\Lab 3\\Tps\\Lab3\\Tp2\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043E551D-DDA2-4287-9B68-50F78AAE35AE}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\Facultad\\TECNICATURA\\3er Semestre\\Lab 3\\Tps\\Lab3\\Tp2\\E\\Program.cs",
+              "RelativeDocumentMoniker": "E\\Program.cs",
+              "ToolTip": "D:\\Documents\\Facultad\\TECNICATURA\\3er Semestre\\Lab 3\\Tps\\Lab3\\Tp2\\E\\Program.cs",
+              "RelativeToolTip": "E\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAUwB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T21:16:13.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\Facultad\\TECNICATURA\\3er Semestre\\Lab 3\\Tps\\Lab3\\Tp2\\Ejercicio1\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio1\\Program.cs",
+              "ToolTip": "D:\\Documents\\Facultad\\TECNICATURA\\3er Semestre\\Lab 3\\Tps\\Lab3\\Tp2\\Ejercicio1\\Program.cs",
+              "RelativeToolTip": "Ejercicio1\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T20:35:08.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\Facultad\\TECNICATURA\\3er Semestre\\Lab 3\\Tps\\Lab3\\Tp2\\B.2\\Program.cs",
+              "RelativeDocumentMoniker": "B.2\\Program.cs",
+              "ToolTip": "D:\\Documents\\Facultad\\TECNICATURA\\3er Semestre\\Lab 3\\Tps\\Lab3\\Tp2\\B.2\\Program.cs",
+              "RelativeToolTip": "B.2\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T19:31:39.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\Facultad\\TECNICATURA\\3er Semestre\\Lab 3\\Tps\\Lab3\\Tp2\\D.7\\Program.cs",
+              "RelativeDocumentMoniker": "D.7\\Program.cs",
+              "ToolTip": "D:\\Documents\\Facultad\\TECNICATURA\\3er Semestre\\Lab 3\\Tps\\Lab3\\Tp2\\D.7\\Program.cs",
+              "RelativeToolTip": "D.7\\Program.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAADwvxoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T19:30:24.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

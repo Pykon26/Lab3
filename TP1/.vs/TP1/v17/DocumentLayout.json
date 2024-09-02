@@ -1,30 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\Ejercicio1\\",
+  "WorkspaceRootPath": "D:\\Documents\\Facultad\\TECNICATURA\\3er Semestre\\Lab 3\\Tps\\Lab3\\TP1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{83477064-67CD-4B61-8A8E-7A1F6462DFB5}|Ejercio6\\Ejercio6.csproj|c:\\users\\dell\\source\\repos\\ejercicio1\\ejercio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6122C886-5F4D-4435-BF16-DCBA429FA843}|Ejercicio 7\\Ejercicio 7.csproj|d:\\documents\\facultad\\tecnicatura\\3er semestre\\lab 3\\tps\\lab3\\tp1\\ejercicio 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6122C886-5F4D-4435-BF16-DCBA429FA843}|Ejercicio 7\\Ejercicio 7.csproj|solutionrelative:ejercicio 7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83477064-67CD-4B61-8A8E-7A1F6462DFB5}|Ejercio6\\Ejercio6.csproj|D:\\Documents\\Facultad\\TECNICATURA\\3er Semestre\\Lab 3\\Tps\\Lab3\\TP1\\ejercio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83477064-67CD-4B61-8A8E-7A1F6462DFB5}|Ejercio6\\Ejercio6.csproj|solutionrelative:ejercio6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9D584257-9195-47FE-BAE7-4CF4C2906D07}|Ejercicio5\\Ejercicio5.csproj|c:\\users\\dell\\source\\repos\\ejercicio1\\ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9D584257-9195-47FE-BAE7-4CF4C2906D07}|Ejercicio5\\Ejercicio5.csproj|solutionrelative:ejercicio5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9D584257-9195-47FE-BAE7-4CF4C2906D07}|Ejercicio5\\Ejercicio5.csproj|D:\\Documents\\Facultad\\TECNICATURA\\3er Semestre\\Lab 3\\Tps\\Lab3\\TP1\\Ejercicio5\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9D584257-9195-47FE-BAE7-4CF4C2906D07}|Ejercicio5\\Ejercicio5.csproj|solutionrelative:Ejercicio5\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E304F216-54CA-4F98-B752-73FB3793FD50}|Ejercicio4\\Ejercicio4.csproj|c:\\users\\dell\\source\\repos\\ejercicio1\\ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E304F216-54CA-4F98-B752-73FB3793FD50}|Ejercicio4\\Ejercicio4.csproj|solutionrelative:ejercicio4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E304F216-54CA-4F98-B752-73FB3793FD50}|Ejercicio4\\Ejercicio4.csproj|D:\\Documents\\Facultad\\TECNICATURA\\3er Semestre\\Lab 3\\Tps\\Lab3\\TP1\\Ejercicio4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E304F216-54CA-4F98-B752-73FB3793FD50}|Ejercicio4\\Ejercicio4.csproj|solutionrelative:Ejercicio4\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{92D7FA5C-9F13-4F8C-9E89-132CB65537F4}|Ejercicio3\\Ejercicio3.csproj|c:\\users\\dell\\source\\repos\\ejercicio1\\ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{92D7FA5C-9F13-4F8C-9E89-132CB65537F4}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:ejercicio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{92D7FA5C-9F13-4F8C-9E89-132CB65537F4}|Ejercicio3\\Ejercicio3.csproj|D:\\Documents\\Facultad\\TECNICATURA\\3er Semestre\\Lab 3\\Tps\\Lab3\\TP1\\Ejercicio3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92D7FA5C-9F13-4F8C-9E89-132CB65537F4}|Ejercicio3\\Ejercicio3.csproj|solutionrelative:Ejercicio3\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{14A7DAB9-A9BE-42BC-A547-90538E81F43B}|Ejercicio2\\Ejercicio2.csproj|c:\\users\\dell\\source\\repos\\ejercicio1\\ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{14A7DAB9-A9BE-42BC-A547-90538E81F43B}|Ejercicio2\\Ejercicio2.csproj|solutionrelative:ejercicio2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{14A7DAB9-A9BE-42BC-A547-90538E81F43B}|Ejercicio2\\Ejercicio2.csproj|D:\\Documents\\Facultad\\TECNICATURA\\3er Semestre\\Lab 3\\Tps\\Lab3\\TP1\\Ejercicio2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14A7DAB9-A9BE-42BC-A547-90538E81F43B}|Ejercicio2\\Ejercicio2.csproj|solutionrelative:Ejercicio2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F812E9F-BC01-44A2-B85E-2D49AE316B25}|Ejercicio1\\Ejercicio1.csproj|c:\\users\\dell\\source\\repos\\ejercicio1\\ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F812E9F-BC01-44A2-B85E-2D49AE316B25}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:ejercicio1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F812E9F-BC01-44A2-B85E-2D49AE316B25}|Ejercicio1\\Ejercicio1.csproj|D:\\Documents\\Facultad\\TECNICATURA\\3er Semestre\\Lab 3\\Tps\\Lab3\\TP1\\Ejercicio1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F812E9F-BC01-44A2-B85E-2D49AE316B25}|Ejercicio1\\Ejercicio1.csproj|solutionrelative:Ejercicio1\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,83 +44,87 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Ejercicio1\\Ejercio6\\Program.cs",
-              "RelativeDocumentMoniker": "Ejercio6\\Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Ejercicio1\\Ejercio6\\Program.cs",
-              "RelativeToolTip": "Ejercio6\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Documents\\Facultad\\TECNICATURA\\3er Semestre\\Lab 3\\Tps\\Lab3\\TP1\\Ejercicio 7\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio 7\\Program.cs",
+              "ToolTip": "D:\\Documents\\Facultad\\TECNICATURA\\3er Semestre\\Lab 3\\Tps\\Lab3\\TP1\\Ejercicio 7\\Program.cs",
+              "RelativeToolTip": "Ejercicio 7\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T19:32:16.229Z",
+              "WhenOpened": "2024-08-24T01:03:21.772Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Ejercicio1\\Ejercicio5\\Program.cs",
-              "RelativeDocumentMoniker": "Ejercicio5\\Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Ejercicio1\\Ejercicio5\\Program.cs",
-              "RelativeToolTip": "Ejercicio5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Documents\\Facultad\\TECNICATURA\\3er Semestre\\Lab 3\\Tps\\Lab3\\TP1\\Ejercio6\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercio6\\Program.cs",
+              "ToolTip": "D:\\Documents\\Facultad\\TECNICATURA\\3er Semestre\\Lab 3\\Tps\\Lab3\\TP1\\Ejercio6\\Program.cs",
+              "RelativeToolTip": "Ejercio6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T19:28:16.33Z",
+              "WhenOpened": "2024-08-23T19:32:16.229Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Ejercicio1\\Ejercicio4\\Program.cs",
-              "RelativeDocumentMoniker": "Ejercicio4\\Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Ejercicio1\\Ejercicio4\\Program.cs",
-              "RelativeToolTip": "Ejercicio4\\Program.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAIwCcAAAAVAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Documents\\Facultad\\TECNICATURA\\3er Semestre\\Lab 3\\Tps\\Lab3\\TP1\\Ejercicio5\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio5\\Program.cs",
+              "ToolTip": "D:\\Documents\\Facultad\\TECNICATURA\\3er Semestre\\Lab 3\\Tps\\Lab3\\TP1\\Ejercicio5\\Program.cs",
+              "RelativeToolTip": "Ejercicio5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T18:55:15.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T19:28:16.33Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Ejercicio1\\Ejercicio3\\Program.cs",
-              "RelativeDocumentMoniker": "Ejercicio3\\Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Ejercicio1\\Ejercicio3\\Program.cs",
-              "RelativeToolTip": "Ejercicio3\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAAAJAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Documents\\Facultad\\TECNICATURA\\3er Semestre\\Lab 3\\Tps\\Lab3\\TP1\\Ejercicio4\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio4\\Program.cs",
+              "ToolTip": "D:\\Documents\\Facultad\\TECNICATURA\\3er Semestre\\Lab 3\\Tps\\Lab3\\TP1\\Ejercicio4\\Program.cs",
+              "RelativeToolTip": "Ejercicio4\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwCcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T18:42:34.424Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2024-08-23T18:55:15.721Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Ejercicio1\\Ejercicio2\\Program.cs",
-              "RelativeDocumentMoniker": "Ejercicio2\\Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Ejercicio1\\Ejercicio2\\Program.cs",
-              "RelativeToolTip": "Ejercicio2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Documents\\Facultad\\TECNICATURA\\3er Semestre\\Lab 3\\Tps\\Lab3\\TP1\\Ejercicio3\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio3\\Program.cs",
+              "ToolTip": "D:\\Documents\\Facultad\\TECNICATURA\\3er Semestre\\Lab 3\\Tps\\Lab3\\TP1\\Ejercicio3\\Program.cs",
+              "RelativeToolTip": "Ejercicio3\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T18:08:04.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T18:42:34.424Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Ejercicio1\\Ejercicio1\\Program.cs",
+              "DocumentMoniker": "D:\\Documents\\Facultad\\TECNICATURA\\3er Semestre\\Lab 3\\Tps\\Lab3\\TP1\\Ejercicio2\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicio2\\Program.cs",
+              "ToolTip": "D:\\Documents\\Facultad\\TECNICATURA\\3er Semestre\\Lab 3\\Tps\\Lab3\\TP1\\Ejercicio2\\Program.cs",
+              "RelativeToolTip": "Ejercicio2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T18:08:04.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Documents\\Facultad\\TECNICATURA\\3er Semestre\\Lab 3\\Tps\\Lab3\\TP1\\Ejercicio1\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicio1\\Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Ejercicio1\\Ejercicio1\\Program.cs",
+              "ToolTip": "D:\\Documents\\Facultad\\TECNICATURA\\3er Semestre\\Lab 3\\Tps\\Lab3\\TP1\\Ejercicio1\\Program.cs",
               "RelativeToolTip": "Ejercicio1\\Program.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAQwB8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T18:07:08.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T18:07:08.949Z"
             }
           ]
         }

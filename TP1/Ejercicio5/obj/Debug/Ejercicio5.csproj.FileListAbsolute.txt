@@ -1,0 +1,7 @@
+D:\Documents\Facultad\TECNICATURA\3er Semestre\Lab 3\Tps\Lab3\TP1\Ejercicio5\bin\Debug\Ejercicio5.exe.config
+D:\Documents\Facultad\TECNICATURA\3er Semestre\Lab 3\Tps\Lab3\TP1\Ejercicio5\bin\Debug\Ejercicio5.exe
+D:\Documents\Facultad\TECNICATURA\3er Semestre\Lab 3\Tps\Lab3\TP1\Ejercicio5\bin\Debug\Ejercicio5.pdb
+D:\Documents\Facultad\TECNICATURA\3er Semestre\Lab 3\Tps\Lab3\TP1\Ejercicio5\obj\Debug\Ejercicio5.csproj.AssemblyReference.cache
+D:\Documents\Facultad\TECNICATURA\3er Semestre\Lab 3\Tps\Lab3\TP1\Ejercicio5\obj\Debug\Ejercicio5.csproj.CoreCompileInputs.cache
+D:\Documents\Facultad\TECNICATURA\3er Semestre\Lab 3\Tps\Lab3\TP1\Ejercicio5\obj\Debug\Ejercicio5.exe
+D:\Documents\Facultad\TECNICATURA\3er Semestre\Lab 3\Tps\Lab3\TP1\Ejercicio5\obj\Debug\Ejercicio5.pdb

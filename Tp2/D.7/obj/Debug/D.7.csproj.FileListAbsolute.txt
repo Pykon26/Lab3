@@ -1,0 +1,7 @@
+D:\Documents\Facultad\TECNICATURA\3er Semestre\Lab 3\Tps\Lab3\Tp2\D.7\bin\Debug\D.7.exe.config
+D:\Documents\Facultad\TECNICATURA\3er Semestre\Lab 3\Tps\Lab3\Tp2\D.7\bin\Debug\D.7.exe
+D:\Documents\Facultad\TECNICATURA\3er Semestre\Lab 3\Tps\Lab3\Tp2\D.7\bin\Debug\D.7.pdb
+D:\Documents\Facultad\TECNICATURA\3er Semestre\Lab 3\Tps\Lab3\Tp2\D.7\obj\Debug\D.7.csproj.AssemblyReference.cache
+D:\Documents\Facultad\TECNICATURA\3er Semestre\Lab 3\Tps\Lab3\Tp2\D.7\obj\Debug\D.7.csproj.CoreCompileInputs.cache
+D:\Documents\Facultad\TECNICATURA\3er Semestre\Lab 3\Tps\Lab3\Tp2\D.7\obj\Debug\D.7.exe
+D:\Documents\Facultad\TECNICATURA\3er Semestre\Lab 3\Tps\Lab3\Tp2\D.7\obj\Debug\D.7.pdb
